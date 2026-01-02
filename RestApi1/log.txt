@@ -1,0 +1,12 @@
+Requested URL: /api/users 
+Requested URL: /api/users Method: GET 
+Requested URL: /api/users, Method: GET, Date: 2025-12-30T12:59:52.055Z 
+Requested URL: /api/users, Method: GET, Date: 2025-12-31T07:27:56.476Z 
+Requested URL: /api/users, Method: GET, Date: 2025-12-31T07:28:31.007Z 
+Requested URL: /api/users, Method: GET, Date: 2025-12-31T07:31:07.337Z 
+Requested URL: /api/users, Method: POST, Date: 2025-12-31T08:52:25.993Z 
+Requested URL: /api/users, Method: POST, Date: 2025-12-31T08:53:21.097Z 
+Requested URL: /api/users, Method: POST, Date: 2025-12-31T08:55:59.830Z 
+Requested URL: /api/users, Method: POST, Date: 2025-12-31T08:56:15.434Z 
+Requested URL: /users, Method: GET, Date: 2025-12-31T09:00:02.392Z 
+Requested URL: /users, Method: GET, Date: 2025-12-31T09:00:20.873Z 

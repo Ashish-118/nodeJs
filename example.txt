@@ -1,0 +1,4 @@
+This is an example file. for async
+ This is appended text.
+ This is appended text.
+ This is appended text.
