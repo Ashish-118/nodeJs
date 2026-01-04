@@ -19,7 +19,7 @@ async function createShortUrl(req, res) {
         shortUrl: shortId
     });
 
-    // return res.status(201).json({ shortId: shortId });
+
 }
 
 async function getUrl(req, res) {
